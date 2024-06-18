@@ -1,17 +1,36 @@
 <div id="header" align="center">
     <img src="https://media1.tenor.com/m/hd-afRp7c0wAAAAC/matrix-the-matrix-has-you.gif" width="500"/>
-  
-<!--
-**Retold3202/Retold3202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    
+</div>
+<br> 
 
-Here are some ideas to get you started:
+<h4>
+    
+Hi there, thanks for stopping by. 👋 I'm just your average person on the internet™.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I maintain [BadBlock](https://github.com/Retold3202/BadBlock), a suite of filters to enhance your content blocker of choice. I also contribute to various other projects, such as [HaGeZi's DNS Blocklists](https://github.com/hagezi/dns-blocklists).
+
+I also write various guides/outlines of my personal settings for different apps, services, and extensions to optimize and make the most out of them.
+
+I currently have guides for:
+
+* [AdGuard DNS](https://github.com/Retold3202/adguard-dns-settings)
+
+* [AdGuard's Browser Extension](https://github.com/Retold3202/adguard-extension-settings)
+
+* [AdGuard's Browser Extension for Safari on iOS](https://github.com/Retold3202/adguard-safari-settings-ios)
+
+* [AdGuard's Browser Extension for Safari on macOS](https://github.com/Retold3202/adguard-safari-setting-macos)
+
+* [AdGuard Home](https://github.com/Retold3202/adguard-home-settings)
+
+* [ControlD](https://github.com/Retold3202/controld-settings)
+
+* [NextDNS](https://github.com/Retold3202/nextdns-settings)
+
+* [uBlock Origin](https://github.com/Retold3202/ublock-origin-settings)
+
+If you ever need to contact me, please feel free to email me at `retmaghub@proton.me`, and I'll do my best to reply. My PGP public key can be found [here](https://keys.openpgp.org/search?q=retmaghub@proton.me).
+
+It should also be noted that this is a mirror of my page over on [Codeberg](https://codeberg.org/Magnesium1062), which I primarily use & prefer to use where possible instead of GitHub, due to privacy concerns and a distrust of Microsoft.
+</h4>
