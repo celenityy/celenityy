@@ -8,7 +8,7 @@
     
 Hi there, thanks for stopping by. 👋 I'm just your average person on the internet™.
 
-It should be noted that this is a mirror of my page over on [Codeberg](https://codeberg.org/Magnesium1062), which I primarily use & prefer to use where possible instead of GitHub, due to privacy concerns and a distrust of Microsoft.
+It should be noted that this is a mirror of my page from [Codeberg](https://codeberg.org/Magnesium1062), which I primarily use & prefer to use where possible instead of GitHub, due to privacy concerns and a distrust of Microsoft.
 
 If you ever need to contact me, please feel free to email me at `retmaghub@proton.me`, and I'll do my best to reply. My PGP public key can be found [here](https://keys.openpgp.org/search?q=retmaghub@proton.me).
 
