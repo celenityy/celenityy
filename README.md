@@ -35,6 +35,8 @@ I currently have guides for:
 * [Brave on iOS](https://github.com/Retold3202/better-brave-ios)
 
 * [ControlD](https://github.com/Retold3202/controld-settings)
+
+* [Cromite](https://github.com/Retold3202/better-cromite)
   
 * [GrapheneOS](https://github.com/Retold3202/grapheneos-settings)
   
