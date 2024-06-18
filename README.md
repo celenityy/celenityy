@@ -41,6 +41,8 @@ I currently have guides for:
 * [iOS](https://github.com/Retold3202/ios-settings)
 
 * [macOS](https://github.com/Retold3202/macos-settings)
+  
+* [Mulch Browser](https://github.com/Retold3202/better-vanadium)
 
 * [NextDNS](https://github.com/Retold3202/nextdns-settings)
   
@@ -49,5 +51,7 @@ I currently have guides for:
 * [Safari on macOS](https://github.com/Retold3202/better-safari-macos)
 
 * [uBlock Origin](https://github.com/Retold3202/ublock-origin-settings)
+  
+* [Vanadium Browser](https://github.com/Retold3202/better-vanadium)
 
 </h4>
