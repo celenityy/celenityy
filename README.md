@@ -56,4 +56,6 @@ I currently have guides for:
   
 * [Vanadium Browser](https://github.com/Retold3202/better-vanadium)
 
+* [Vivaldi](https://github.com/Retold3202/better-vivaldi)
+
 </h4>
