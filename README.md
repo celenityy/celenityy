@@ -22,17 +22,17 @@ I currently have guides for:
 
 * [AdGuard's Browser Extension](https://github.com/Retold3202/adguard-extension-settings)
 
-* [AdGuard's Browser Extension for Safari on iOS](https://github.com/Retold3202/adguard-safari-settings-ios)
+* [AdGuard's Browser Extension (iOS Safari)](https://github.com/Retold3202/adguard-safari-settings-ios)
 
-* [AdGuard's Browser Extension for Safari on macOS](https://github.com/Retold3202/adguard-safari-setting-macos)
+* [AdGuard's Browser Extension (macOS Safari)](https://github.com/Retold3202/adguard-safari-setting-macos)
 
 * [AdGuard Home](https://github.com/Retold3202/adguard-home-settings)
 
 * [Brave](https://github.com/Retold3202/better-brave)
   
-* [Brave on Android](https://github.com/Retold3202/better-brave-android)
+* [Brave (Android)](https://github.com/Retold3202/better-brave-android)
   
-* [Brave on iOS](https://github.com/Retold3202/better-brave-ios)
+* [Brave(iOS)](https://github.com/Retold3202/better-brave-ios)
 
 * [ControlD](https://github.com/Retold3202/controld-settings)
 
@@ -48,14 +48,16 @@ I currently have guides for:
 
 * [NextDNS](https://github.com/Retold3202/nextdns-settings)
   
-* [Safari on iOS](https://github.com/Retold3202/ios-settings?tab=readme-ov-file#safari)
+* [Safari (iOS)](https://github.com/Retold3202/ios-settings?tab=readme-ov-file#safari)
   
-* [Safari on macOS](https://github.com/Retold3202/better-safari-macos)
+* [Safari (macOS)](https://github.com/Retold3202/better-safari-macos)
 
 * [uBlock Origin](https://github.com/Retold3202/ublock-origin-settings)
   
 * [Vanadium Browser](https://github.com/Retold3202/better-vanadium)
 
 * [Vivaldi](https://github.com/Retold3202/better-vivaldi)
+
+* [Vivaldi (Android)](https://github.com/Retold3202/better-vivaldi-android)
 
 </h4>
