@@ -32,7 +32,7 @@ I currently have guides for:
   
 * [Brave (Android)](https://github.com/Retold3202/better-brave-android)
   
-* [Brave(iOS)](https://github.com/Retold3202/better-brave-ios)
+* [Brave (iOS)](https://github.com/Retold3202/better-brave-ios)
 
 * [ControlD](https://github.com/Retold3202/controld-settings)
 
